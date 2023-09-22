@@ -7,7 +7,6 @@ I'm a student pursuing a BS in Software Engineering with a deep passion for prog
 - 🔭 I’m currently working on exciting coding projects.
 - 🌱 I’m constantly learning and improving my coding skills.
 - 💬 Ask me about anything related to programing!
-- 
 - 📫 How to reach me: [Email](aabaid737@gmail.com)
 
 ## Technologies I Love
