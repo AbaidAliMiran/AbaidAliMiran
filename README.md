@@ -11,8 +11,9 @@ I'm a student pursuing a BS in Software Engineering with a deep passion for prog
 
 ## Technologies I Love
 
-- Programming Languages: C,C++
-- Tools: Visual Studio Code,GitHub
+- Programming Languages: C,C++,Dart
+- Frameworks : Flutter
+- Tools: Visual Studio Code,Android Studio,GitHub
 
 ## Connect with Me
 
